@@ -1,2 +1,2 @@
-# ng-4-dummy
+# ng4-dummy
 # angular-cli: https://github.com/angular/angular-cli
